@@ -1,0 +1,10 @@
+---
+title: Media!
+layout: post
+author: lewis.littman
+permalink: /untitled-document/
+source-id: 1bsnAtSMYv7sPISWUmh48QigUNlSFXboyizl7Ph5br6k
+published: true
+---
+Over the past 6 lessons, that were about media, I have learned a lot such as what I should and shouldn't post online and also something i learned today is that you should always look at the instructions even if you think you know what you’re doing! Media is a way of spreading information quickly, through advertisements or over the internet. Social media are usually apps or websites where online people can talk to each other, post pictures and just see the latest news. Social media sites are: twitter to post short little comments to the world; facebook to see what your friends are doing; instagram to post pictures to people; snapchat to send direct pictures to people and whatsapp to talk to groups of people all at once. We interpreted different adverts by seeing if it was fantasy or not, what the colours told us, what the music told us and other little bits like how is in the advert to see who it was aimed at. I learnt a lot and it was fun at the same time!
+
