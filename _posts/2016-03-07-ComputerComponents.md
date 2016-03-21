@@ -2,7 +2,7 @@
 title: Computer Components/malware!
 layout: post
 author: lewis.littman
-permalink: /computercomponents/
+permalink: /ComputerComponents/
 source-id: 1GVCKqcqmupjoeNjsMcrH8LxGD-Awg8ldfOG1mrwJP8I
 published: true
 ---
