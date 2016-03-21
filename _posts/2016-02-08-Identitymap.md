@@ -2,7 +2,7 @@
 title: Today - Identity map
 layout: post
 author: lewis.littman
-permalink: /untitled-document/
+permalink: /Identitymap/
 source-id: 1NfoqQXbgMEmujCYlIPbJHZhOuCkMT6kp_hzLkFFiY9o
 published: true
 ---
