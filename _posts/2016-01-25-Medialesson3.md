@@ -2,7 +2,7 @@
 title: lesson 3 Media
 layout: post
 author: lewis.littman
-permalink: /untitled-document/
+permalink: /Medialesson3/
 source-id: 1qPnAtuPv8Q2bV7nykBcbKtPf_AEs2D-dGN-vI64DCvM
 published: true
 ---
