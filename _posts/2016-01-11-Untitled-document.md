@@ -2,7 +2,7 @@
 title: media lesson 1
 layout: post
 author: lewis.littman
-permalink: /untitled-document/
+permalink: /medialesson1/
 source-id: 1TiJqbkhYbo_XD8flxndjceFCyFl07UAafmLExHOUGq8
 published: true
 ---
