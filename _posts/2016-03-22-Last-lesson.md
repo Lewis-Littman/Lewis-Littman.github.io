@@ -2,7 +2,7 @@
 title: Last-lesson
 layout: post
 author: lewis.littman
-permalink: /untitled-document/
+permalink: /Last-lesson/
 source-id: 1zUgdJvym-QQdxwgwuh8Vns8J4uaakuMjfue7g5IEzIY
 published: true
 ---
