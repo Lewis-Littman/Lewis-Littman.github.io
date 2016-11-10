@@ -18,7 +18,6 @@ html {
 }
 
 body {
-	background-image: url(http://eskipaper.com/images/underwater-wallpaper-1.jpg)no-repeat center center fixed;
   font: 18px/1.4 $arial;
   color: #ff0000;
 }
@@ -287,3 +286,10 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+body {
+    background-image: url("http://eskipaper.com/images/underwater-wallpaper-1.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
