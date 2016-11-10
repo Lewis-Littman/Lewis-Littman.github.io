@@ -302,3 +302,7 @@ div.transbox {
     filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
+p {
+    border: 2px solid red;
+    border-radius: 5px;
+}
